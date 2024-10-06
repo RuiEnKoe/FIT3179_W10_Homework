@@ -1,7 +1,7 @@
 #choropleth_map{
     top: 20px;
-    left: 20px;
-    right: 100px;
+    left: 80px;
+    right: 20px;
     bottom: 200px;
 }
 
@@ -9,7 +9,7 @@
     width: 80%;
     height: 80%;
     top: 20px;
-    left: 100px;
+    left: 30px;
     right: 100px;
 
 }
