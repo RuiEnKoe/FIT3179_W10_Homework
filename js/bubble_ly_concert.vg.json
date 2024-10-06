@@ -3,7 +3,7 @@
     "width": 500,
     "height": 350,
 
-    "data":{"url": "/data/bts_ly_concert_revenue.csv"},
+    "data":{"url": "https://raw.githubusercontent.com/RuiEnKoe/FIT3179_W10_Homework/refs/heads/main/data/bts_tour_data.csv"},
 
     "encoding":
     {
